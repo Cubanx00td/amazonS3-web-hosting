@@ -4,7 +4,7 @@
 This project demonstrates how to host a Website using AWS. The goal is to use S3 to store the files and host the website on cloud.
 
 ## 🏗️ Architecture
-<img src="s3-architecture" alt="drawing" width="500"/>
+<img src="s3-architecture.png" alt="drawing" width="500"/>
 
 ## 🥪 Prerequisites
 - AWS Account
