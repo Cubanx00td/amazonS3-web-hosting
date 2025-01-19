@@ -42,7 +42,7 @@ This project demonstrates how to host a Website using AWS. The goal is to use S3
 - **Issue 1:** Unable to access S3 bucket.
   - **Solution:** Check the bucket's public access settings and ensure the bucket policy allows public access.
 
-**Issue 2:** 403 forbidden error
+- **Issue 2:** 403 forbidden error
   - **Solution:** Modify the ACL rules and double check the files uploaded. Visit this [link](https://community.nextwork.org/c/i-have-a-question/project-1-troubleshooting-index-html?automatic_login=true) for troubleshooting common errors.
 
 ## 🔗 Additional Resources
